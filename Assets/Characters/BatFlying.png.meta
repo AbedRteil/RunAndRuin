@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 4741d2a85f723c14e8a6a9b28e4aa0dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7323833760354339510
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_0
+  - first:
+      213: 981707983031683112
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_1
+  - first:
+      213: 4029016607756379860
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_2
+  - first:
+      213: 3371901652837109993
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_3
+  - first:
+      213: 809107067987870610
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_4
+  - first:
+      213: -209264031703715588
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_5
+  - first:
+      213: -3503087740049804917
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_6
+  - first:
+      213: -1624929781888387999
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_7
+  - first:
+      213: -2699976388621794212
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_8
+  - first:
+      213: 6663714734625027427
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_9
+  - first:
+      213: -5403599012522786459
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_10
+  - first:
+      213: -8102661486300412048
+    second: Gemini_Generated_Image_bxqn2abxqn2abxqn-removebg-preview_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BatFlying_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 263
+        width: 145
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 34.5, y: -28}
+        - {x: 51.5, y: -11}
+        - {x: 64.5, y: 11}
+        - {x: 72.5, y: 46}
+        - {x: 40.5, y: 43}
+        - {x: 22.5, y: 28}
+        - {x: 1.5, y: 3}
+        - {x: -14.5, y: 25}
+        - {x: -24.5, y: 39}
+        - {x: -72.5, y: 46}
+        - {x: -61.5, y: 28}
+        - {x: -56.5, y: -5}
+        - {x: -36.5, y: -24}
+        - {x: -23.5, y: -45}
+        - {x: 5.5, y: -46}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ba8fd76fdd1d8499f5aac02aa8ad93
+      internalID: 1047964251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 267
+        width: 148
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 41, y: -11.5}
+        - {x: 74, y: 5.5}
+        - {x: 74, y: 26.5}
+        - {x: 72, y: 34.5}
+        - {x: 20, y: 32.5}
+        - {x: 4, y: 10.5}
+        - {x: -22, y: 32.5}
+        - {x: -74, y: 34.5}
+        - {x: -70, y: 15.5}
+        - {x: -53, y: 0.5}
+        - {x: -43, y: -7.5}
+        - {x: -24, y: -33.5}
+        - {x: 9, y: -34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8efb22f19530474b93012f1a62c39fb
+      internalID: -1615429741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 267
+        width: 135
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 47.5, y: -11.5}
+        - {x: 67.5, y: -15.5}
+        - {x: 67.5, y: 15.5}
+        - {x: 44.5, y: 27.5}
+        - {x: 18.5, y: 29.5}
+        - {x: 15.5, y: 12.5}
+        - {x: 0.5, y: 12.5}
+        - {x: -15.5, y: 7.5}
+        - {x: -17.5, y: 26.5}
+        - {x: -24.5, y: 30.5}
+        - {x: -52.5, y: 20.5}
+        - {x: -67.5, y: 1.5}
+        - {x: -64.5, y: -24.5}
+        - {x: -50.5, y: -12.5}
+        - {x: -36.5, y: -9.5}
+        - {x: -19.5, y: -30.5}
+        - {x: -0.5, y: -29.5}
+        - {x: 29.5, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c52e7178dd21849b518d2563e63d86
+      internalID: 1529405273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 267
+        width: 130
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -53, y: -15.5}
+        - {x: -51, y: -21.5}
+        - {x: -31, y: -27.5}
+        - {x: 65, y: -27.5}
+        - {x: 65, y: 11.5}
+        - {x: 54, y: 27.5}
+        - {x: -39, y: 27.5}
+        - {x: -64, y: 21.5}
+        - {x: -65, y: 8.5}
+        - {x: -65, y: -25.5}
+        - {x: -63, y: -27.5}
+        - {x: -55, y: -27.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac98fffcbcba324db6121cd5279b1ed
+      internalID: 1296071508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 150
+        width: 150
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 58, y: -9.5}
+        - {x: 62, y: 2.5}
+        - {x: 75, y: 3.5}
+        - {x: 57, y: 27.5}
+        - {x: 25, y: 26.5}
+        - {x: 2, y: 15.5}
+        - {x: -22.967941, y: 25.932007}
+        - {x: -45, y: 25.5}
+        - {x: -62, y: 17.5}
+        - {x: -75, y: 4.5}
+        - {x: -57, y: -8.5}
+        - {x: -37, y: -12.5}
+        - {x: -20, y: -25.5}
+        - {x: 3, y: -25.5}
+        - {x: 18, y: -11.5}
+        - {x: 36, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab490802feefd1d4b9b6e6aef177dcf6
+      internalID: 639501157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 150
+        width: 147
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 68.5, y: -5.5}
+        - {x: 73.5, y: -1.5}
+        - {x: 73.5, y: 31.5}
+        - {x: -73.5, y: 31.5}
+        - {x: -73.5, y: -9.5}
+        - {x: -52.5, y: -31.5}
+        - {x: 12.5, y: -31.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263a61b91def5745ab84ee05fb26470
+      internalID: -758603068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 150
+        width: 136
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 44, y: -17.5}
+        - {x: 60, y: 7.5}
+        - {x: 59, y: 17.5}
+        - {x: 68, y: 30.5}
+        - {x: 68, y: 39.5}
+        - {x: -68, y: 39.5}
+        - {x: -68, y: 2.5}
+        - {x: -33, y: -39.5}
+        - {x: 11, y: -39.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d45f58bdf036d4fa893f3b94fb1c4a
+      internalID: -35203926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 149
+        width: 132
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 47, y: -21.5}
+        - {x: 66, y: 14.5}
+        - {x: 66, y: 44.5}
+        - {x: -66, y: 44.5}
+        - {x: -45, y: -13.5}
+        - {x: -40, y: -44.5}
+        - {x: 6, y: -44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4fee4edc59484997c290b8691ff44
+      internalID: -1574531929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 35
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 37, y: -39}
+        - {x: 61, y: 21}
+        - {x: 61, y: 43}
+        - {x: -61, y: 43}
+        - {x: -61, y: 33}
+        - {x: -55, y: 11}
+        - {x: -30, y: -43}
+        - {x: 19, y: -43}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f40224edcf8e6f4a99d42f09273c13b
+      internalID: 1925491723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 45
+        width: 138
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 69, y: -21.5}
+        - {x: 69, y: 32.5}
+        - {x: -64, y: 32.5}
+        - {x: -69, y: 31.5}
+        - {x: -69, y: 7.5}
+        - {x: -47, y: -32.5}
+        - {x: 38, y: -32.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16a9d65d0cb1b7488a1b7fbb6565bff
+      internalID: -1136494928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 29
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 45, y: 37.5}
+        - {x: -35, y: 37.5}
+        - {x: -45, y: 17.5}
+        - {x: -45, y: -25.5}
+        - {x: -43, y: -31.5}
+        - {x: -29, y: -37.5}
+        - {x: 45, y: -37.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c1fd5f98ee0bb4782303eb6a1e63e8
+      internalID: -1693773479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatFlying_11
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 45
+        width: 147
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 28.5, y: -29}
+        - {x: 73.5, y: 12}
+        - {x: 73.5, y: 29}
+        - {x: 72.5, y: 30}
+        - {x: -73.5, y: 30}
+        - {x: -73.5, y: 4}
+        - {x: -60.5, y: -10}
+        - {x: -36.5, y: -30}
+        - {x: 18.5, y: -30}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f3fb2d003ed23418d2b4488b6e5173
+      internalID: 969837203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ec004a629ceee904985546029d5634ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BatFlying_0: 1047964251
+      BatFlying_1: -1615429741
+      BatFlying_10: -1693773479
+      BatFlying_11: 969837203
+      BatFlying_2: 1529405273
+      BatFlying_3: 1296071508
+      BatFlying_4: 639501157
+      BatFlying_5: -758603068
+      BatFlying_6: -35203926
+      BatFlying_7: -1574531929
+      BatFlying_8: 1925491723
+      BatFlying_9: -1136494928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
