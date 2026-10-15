@@ -1,3 +1,4 @@
+
 # Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
@@ -6,58 +7,70 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-
-# MemoryCaptures
+.utmp/
 [Mm]emoryCaptures/
+[Rr]ecordings/
+ExportedObj/
 
-# Asset meta data should be included
-!/[Aa]ssets/**/*.meta
+# Generated files
+*.log
+sysinfo.txt
+mono_crash.*
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.tmp
 
-# Visual Studio / VS Code
+# Build outputs
+*.apk
+*.aab
+*.app
+*.unitypackage
+Ru&Ruin_V.W/
+Run&Rui_FinalVersion_Window/
+
+# Unity backups
+*BackUpThisFolder_ButDontShipItWithYourGame*/
+*BurstDebugInformation_DoNotShip*/
+*.zip
+
+# IDE files
 .vs/
 .vscode/
+.gradle/
+.consulo/
 *.csproj
 *.unityproj
 *.sln
+*.slnx
 *.suo
 *.user
 *.userprefs
 *.pidb
 *.booproj
+*.DotSettings.user
 
-# OS generated files
+# Blender backups
+*.blend1
+*.blend1.meta
+
+# Addressables generated files
+/ServerData
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# Other generated Unity files
+/[Aa]ssets/Plugins/Editor/JetBrains*
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+/[Aa]ssets/[Ss]ceneDependencyCache*
+
+# OS files
 .DS_Store
 Thumbs.db
-
-# Unity crash reports
-sysinfo.txt
-
-# Build files
-*.apk
-*.aab
-
-# Unity backup / test files
-*BackUpThisFolder_ButDontShipItWithYourGame*/
-*BurstDebugInformation_DoNotShip*/
-*.zip
-# Unity temporary files
-.utmp/
-# Build output
-Ru&Ruin_V.W/
-*.slnx
-
-# Unity generated files
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
-
-# Build outputs
-[Bb]uild/
-[Bb]uilds/
-Run&Rui_FinalVersion_Window/
-
-# IDE files
-.vs/
-.vscode/
+Desktop.ini
