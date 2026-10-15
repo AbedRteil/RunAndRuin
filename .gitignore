@@ -74,3 +74,10 @@ Run&Rui_FinalVersion_Window/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Keep local copyrighted audio out of GitHub
+/Assets/Audio/Dorian Concept - 'Hide (CS01 Version)' (Official Video) - Dorian Concept.mp3
+/Assets/Audio/Dorian Concept - 'Hide (CS01 Version)' (Official Video) - Dorian Concept.mp3.meta
+
+# Keep local playable build out of source repository
+/Run&Ruin_Github_version/
