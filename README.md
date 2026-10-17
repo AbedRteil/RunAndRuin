@@ -20,8 +20,12 @@ Download the ZIP, extract it, and launch the game executable to play.
 - Death and restart system
 
 ### Controls
+Mobile:
 - **Swipe up:** Jump
 - **Tap:** Attack
+Windows:
+- **Space:** Jump
+- **Left-Click:** Attack
 
 ### Built with
 - Unity
