@@ -23,6 +23,7 @@ Download the ZIP, extract it, and launch the game executable to play.
 Mobile:
 - **Swipe up:** Jump
 - **Tap:** Attack
+  
 Windows:
 - **Space:** Jump
 - **Left-Click:** Attack
